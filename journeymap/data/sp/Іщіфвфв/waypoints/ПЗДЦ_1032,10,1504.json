@@ -1,0 +1,18 @@
+{
+  "id": "ПЗДЦ_1032,10,1504",
+  "name": "ПЗДЦ",
+  "icon": "waypoint-normal.png",
+  "x": 1032,
+  "y": 10,
+  "z": 1504,
+  "r": 124,
+  "g": 211,
+  "b": 69,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

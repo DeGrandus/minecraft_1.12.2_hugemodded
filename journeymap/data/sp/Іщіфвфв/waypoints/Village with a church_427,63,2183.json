@@ -1,0 +1,18 @@
+{
+  "id": "Village with a church_427,63,2183",
+  "name": "Village with a church",
+  "icon": "waypoint-normal.png",
+  "x": 427,
+  "y": 63,
+  "z": 2183,
+  "r": 255,
+  "g": 255,
+  "b": 255,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

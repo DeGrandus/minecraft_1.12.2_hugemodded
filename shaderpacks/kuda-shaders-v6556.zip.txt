@@ -1,0 +1,17 @@
+#Sun Jan 23 17:26:54 EET 2022
+ambientOcclusion=true
+animateUsingWorldTime=true
+bloom=false
+cloudCover=0.0
+clouds=false
+dynamicWeather=true
+fogBlur=false
+rainPuddles=false
+reflections=false
+shadowDistance=60.0f
+shadowMapResolution=512
+softShadows=false
+useMoonPhases=true
+volumetricLight=false
+waterShader=false
+YCoCg_Compression=true

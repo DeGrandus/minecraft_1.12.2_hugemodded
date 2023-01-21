@@ -1,0 +1,18 @@
+{
+  "id": "swamp_835,63,1430",
+  "name": "swamp",
+  "icon": "waypoint-normal.png",
+  "x": 835,
+  "y": 63,
+  "z": 1430,
+  "r": 102,
+  "g": 176,
+  "b": 50,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

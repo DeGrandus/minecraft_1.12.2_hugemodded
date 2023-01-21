@@ -1,0 +1,2 @@
+#Thu Jan 12 11:33:38 EET 2023
+Brightness=1.6

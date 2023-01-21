@@ -1,0 +1,18 @@
+{
+  "id": "Another Ferrous shit_1041,50,1520",
+  "name": "Another Ferrous shit",
+  "icon": "waypoint-normal.png",
+  "x": 1041,
+  "y": 50,
+  "z": 1520,
+  "r": 142,
+  "g": 109,
+  "b": 62,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

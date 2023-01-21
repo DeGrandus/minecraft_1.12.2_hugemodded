@@ -1,0 +1,18 @@
+{
+  "id": "City_1400,95,372",
+  "name": "City",
+  "icon": "waypoint-normal.png",
+  "x": 1400,
+  "y": 95,
+  "z": 372,
+  "r": 188,
+  "g": 109,
+  "b": 183,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    1
+  ],
+  "persistent": true
+}

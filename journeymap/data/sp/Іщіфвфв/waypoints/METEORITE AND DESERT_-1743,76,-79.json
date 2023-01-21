@@ -1,0 +1,18 @@
+{
+  "id": "METEORITE AND DESERT_-1743,76,-79",
+  "name": "METEORITE AND DESERT",
+  "icon": "waypoint-normal.png",
+  "x": -1743,
+  "y": 76,
+  "z": -79,
+  "r": 208,
+  "g": 234,
+  "b": 43,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}
