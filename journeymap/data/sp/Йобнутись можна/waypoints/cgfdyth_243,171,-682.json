@@ -1,0 +1,18 @@
+{
+  "id": "cgfdyth_243,171,-682",
+  "name": "cgfdyth",
+  "icon": "waypoint-normal.png",
+  "x": 243,
+  "y": 171,
+  "z": -682,
+  "r": 212,
+  "g": 146,
+  "b": 15,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    -50
+  ],
+  "persistent": true
+}

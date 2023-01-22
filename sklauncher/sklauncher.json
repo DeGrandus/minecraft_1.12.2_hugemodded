@@ -2,7 +2,7 @@
   "lang": "uk-UA",
   "theme": "dark",
   "accentColor": "#2563eb",
-  "consoleEnabled": false,
+  "consoleEnabled": true,
   "hideDefaultProfiles": false,
   "performanceMode": false
 }

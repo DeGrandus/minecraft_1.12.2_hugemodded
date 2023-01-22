@@ -91,6 +91,7 @@ void_crystal                                      ([no block])                  
 emeradic                                          ([no block])                                                                     = Molten Emeradic
 enori                                             ([no block])                                                                     = Molten Enori
 zinc                                              (tconstruct:molten_zinc)                                                         = Molten Zinc
+titanium                                          ([no block])                                                                     = Molten Titanium
 iridium                                           ([no block])                                                                     = Molten Iridium
 aluminum                                          (tconstruct:molten_aluminum)                                                     = Molten Aluminum
 invar                                             ([no block])                                                                     = Molten Invar

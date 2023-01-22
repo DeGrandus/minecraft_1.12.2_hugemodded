@@ -5,6 +5,19 @@
       "name": "DeGrand",
       "uniqueId": "aa0df19f-2309-33e2-a8c7-2b00bc1fbc51"
     },
+    "time": 1674322499319,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/obZZ8gdGB6"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "DeGrand",
+      "uniqueId": "aa0df19f-2309-33e2-a8c7-2b00bc1fbc51"
+    },
     "time": 1674051689444,
     "type": "Profiler",
     "data": {
