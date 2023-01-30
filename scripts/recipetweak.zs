@@ -40,9 +40,9 @@ recipes.addShapedMirrored("CTWyvernBoots", <draconicevolution:wyvern_boots>,
 
 recipes.addShapedMirrored("CTIC2SolarPanel", <ic2:te:8>, 
     [
-     [<ore:dustCoal>,<ore:blockGlass>,<ore:dustCoal>],
+     [<thermalfoundation:material:768>,<ore:blockGlass>,<thermalfoundation:material:768>],
      [<ore:blockGlass>,<industrialupgrade:crafting_elements:37>,<ore:blockGlass>],
-     [null,<ore:ic2Generator>,null]
+     [<enderio:block_simple_stirling_generator>,null,<enderio:block_simple_stirling_generator>]
     ]);
 
 recipes.addShapedMirrored("CTiuSensorSE1", <industrialupgrade:crafting_elements:79>, 
