@@ -6,7 +6,7 @@ recipes.remove(<draconicevolution:wyvern_helm>);
 recipes.remove(<draconicevolution:wyvern_chest>);
 recipes.remove(<draconicevolution:wyvern_legs>);
 recipes.remove(<draconicevolution:wyvern_boots>);
-recipes.remove(<ore:ic2SolarPanel>);
+recipes.remove(<ic2:te:8>);
 recipes.remove(<industrialupgrade:crafting_elements:79>);
 recipes.remove(<industrialupgrade:crafting_elements:174>);
 recipes.remove(<industrialupgrade:crafting_elements:175>);
@@ -38,7 +38,7 @@ recipes.addShapedMirrored("CTWyvernBoots", <draconicevolution:wyvern_boots>,
      [<ore:ingotDraconium>,<industrialupgrade:itemarmorquantumboots>,<ore:ingotDraconium>],
      [<ore:ingotDraconium>,<draconicevolution:wyvern_energy_core>,<ore:ingotDraconium>]]);
 
-recipes.addShapedMirrored("CTIC2SolarPanel", <ore:ic2SolarPanel>, 
+recipes.addShapedMirrored("CTIC2SolarPanel", <ic2:te:8>, 
     [
      [<ore:dustCoal>,<ore:blockGlass>,<ore:dustCoal>],
      [<ore:blockGlass>,<industrialupgrade:crafting_elements:37>,<ore:blockGlass>],
